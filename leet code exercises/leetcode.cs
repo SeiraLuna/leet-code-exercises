@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace leet_code_exercises
 {
-    class Program
+    class leetcode
     {
         static void Main(string[] args)
         {
