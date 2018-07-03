@@ -45,6 +45,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="LCLinkedList.cs" />
+    <Compile Include="MyLinkedList.cs" />
     <Compile Include="Node.cs" />
     <Compile Include="leetcode.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
